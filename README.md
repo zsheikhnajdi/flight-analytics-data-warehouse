@@ -2,6 +2,9 @@
 
 Snowflake-based analytical data warehouse project designed for flight performance analysis, dimensional modeling, and BI-ready reporting.
 
+## Architecture Overview
+
+Raw Flight Data → Snowflake Staging → Fact & Dimension Modeling → Analytical View → BI Reporting
 ---
 
 ## 1. Objective
